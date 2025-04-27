@@ -1,6 +1,7 @@
 # Rolling-Forecast-of-Fixed-Income-Portfolio-VaR-and-CVaR
 This project builds a dynamic fixed income portfolio risk forecasting system.
 I use expanding window rolling forecasting to predict one-day-ahead portfolio risk metrics (VaR and CVaR) over 1000 steps.
+Thanks for the insight by github user justeason.
 
 The code has been seperated into different parts(steps).
 Methodology
